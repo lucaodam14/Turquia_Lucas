@@ -1,0 +1,51 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{  font-family: "Arial";
+       background-color: #FF0000;
+	   font-size: 16px;
+	   line-height: 1.4;
+}
+
+a{ text-decoration: nome;
+   color: #000;
+   text-transform: uppercase;
+}
+p{color: white;}
+
+.textoturc {
+    max-width: 800px; 
+    margin: 0 auto; 
+    text-align: justify;
+}
+a:hover{ color: white; }
+#all{
+	        width: 780px;
+			height: 80px;
+			line-height: 80px;
+			background-color: #00BFFF;
+			border: 3px dashed #ccc;
+			margin: 0 auto;
+}
+ul.menu{
+	        text-align: center;
+}
+ul.menu li{
+	        display: inline-block;
+			margin: 0px 5px:
+}
+ul.menu li a{
+	         background-color: #3d7bb3;
+			 border-radius: 6px;
+			 padding: 6px 10px;
+			 color: #fff;
+}
+
+ul.menu li a:hover{
+	background-color: #8BBADC;
+}
+
+textarea{resize: none;
+}
